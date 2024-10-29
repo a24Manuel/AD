@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Pisos>
+    <Piso>
+        <ID>1</ID>
+        <Direccion>Calle Falsa 123</Direccion>
+        <Ciudad>Madrid</Ciudad>
+        <Superficie>85</Superficie>
+        <NumeroHabitaciones>3</NumeroHabitaciones>
+        <PrecioAlquiler>850</PrecioAlquiler>
+    </Piso>
+    
+</Pisos>

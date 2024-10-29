@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inquilinos>
+    <Inquilino>
+        <ID>1</ID>
+        <Nombre>Carlos López</Nombre>
+        <Telefono>611223344</Telefono>
+        <Correo>carloslopez@example.com</Correo>
+        <PisoAlquiladoID>1</PisoAlquiladoID>
+        <DuracionContrato>12</DuracionContrato>
+    </Inquilino>
+    <Inquilino>
+        <ID>2</ID>
+        <Nombre>Laura Fernández</Nombre>
+        <Telefono>622334455</Telefono>
+        <Correo>laurafernandez@example.com</Correo>
+        <PisoAlquiladoID>2</PisoAlquiladoID>
+        <DuracionContrato>24</DuracionContrato>
+    </Inquilino>
+</Inquilinos>

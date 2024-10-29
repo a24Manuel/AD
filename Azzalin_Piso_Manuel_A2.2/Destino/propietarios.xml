@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Propietarios>
+    <Propietario>
+        <ID>1</ID>
+        <Nombre>Juan Pérez</Nombre>
+        <Telefono>600123456</Telefono>
+        <Correo>juanperez@example.com</Correo>
+        <Propiedades>2</Propiedades>
+    </Propietario>
+    <Propietario>
+        <ID>2</ID>
+        <Nombre>Ana García</Nombre>
+        <Telefono>600987654</Telefono>
+        <Correo>anagarcia@example.com</Correo>
+        <Propiedades>1</Propiedades>
+    </Propietario>
+</Propietarios>
