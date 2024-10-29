@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pisos>
+    <Piso>
+        <ID>1</ID>
+        <Direccion>Calle Falsa 123</Direccion>
+        <Ciudad>Madrid</Ciudad>
+        <Superficie>85</Superficie>
+        <NumeroHabitaciones>3</NumeroHabitaciones>
+        <PrecioAlquiler>850</PrecioAlquiler>
+    </Piso>
+    <Piso>
+        <ID>2</ID>
+        <Direccion>Avenida Siempreviva 742</Direccion>
+        <Ciudad>Barcelona</Ciudad>
+        <Superficie>100</Superficie>
+        <NumeroHabitaciones>4</NumeroHabitaciones>
+        <PrecioAlquiler>1200</PrecioAlquiler>
+    </Piso>
+</Pisos>

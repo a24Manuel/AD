@@ -1,0 +1,54 @@
+{
+  "Pisos": [
+    {
+      "ID": 1,
+      "Direccion": "Calle Falsa 123",
+      "Ciudad": "Madrid",
+      "Superficie": 85,
+      "NumeroHabitaciones": 3,
+      "PrecioAlquiler": 850
+    },
+    {
+      "ID": 2,
+      "Direccion": "Avenida Siempreviva 742",
+      "Ciudad": "Barcelona",
+      "Superficie": 100,
+      "NumeroHabitaciones": 4,
+      "PrecioAlquiler": 1200
+    }
+  ],
+  "Propietarios": [
+    {
+      "ID": 1,
+      "Nombre": "Juan Pérez",
+      "Telefono": "600123456",
+      "Correo": "juanperez@example.com",
+      "Propiedades": 2
+    },
+    {
+      "ID": 2,
+      "Nombre": "Ana García",
+      "Telefono": "600987654",
+      "Correo": "anagarcia@example.com",
+      "Propiedades": 1
+    }
+  ],
+  "Inquilinos": [
+    {
+      "ID": 1,
+      "Nombre": "Carlos López",
+      "Telefono": "611223344",
+      "Correo": "carloslopez@example.com",
+      "PisoAlquiladoID": 1,
+      "DuracionContrato": 12
+    },
+    {
+      "ID": 2,
+      "Nombre": "Laura Fernández",
+      "Telefono": "622334455",
+      "Correo": "laurafernandez@example.com",
+      "PisoAlquiladoID": 2,
+      "DuracionContrato": 24
+    }
+  ]
+}
